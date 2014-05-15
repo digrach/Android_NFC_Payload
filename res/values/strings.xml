@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFCPayload</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_read_pay_load">ReadPayLoadActivity</string>
+    <string name="title_activity_write_pay_load">WritePayLoadActivity</string>
+    <string name="ok_detection">OK!</string>
+    <string name="error_writing">Error writting</string>
+    <string name="ok_writing">OK writting</string>
+    <string name="error_detected">OK writting</string>
+     <string name="write_a_new_tag">Write a new tag</string>
+
+</resources>
